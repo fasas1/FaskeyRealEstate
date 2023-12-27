@@ -1,0 +1,12 @@
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\bin\Debug\net7.0\FaskeyAtlantic.Domain.deps.json
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\bin\Debug\net7.0\FaskeyAtlantic.Domain.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\bin\Debug\net7.0\FaskeyAtlantic.Domain.pdb
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\FaskeyAtlantic.Domain.csproj.AssemblyReference.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\FaskeyAtlantic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\FaskeyAtlantic.Domain.AssemblyInfoInputs.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\FaskeyAtlantic.Domain.AssemblyInfo.cs
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\FaskeyAtlantic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\FaskeyAtlantic.Domain.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\refint\FaskeyAtlantic.Domain.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\FaskeyAtlantic.Domain.pdb
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Domain\obj\Debug\net7.0\ref\FaskeyAtlantic.Domain.dll

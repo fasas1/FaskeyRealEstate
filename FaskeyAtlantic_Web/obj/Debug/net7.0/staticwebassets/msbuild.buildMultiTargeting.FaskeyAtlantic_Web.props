@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FaskeyAtlantic_Web.props" />
+</Project>

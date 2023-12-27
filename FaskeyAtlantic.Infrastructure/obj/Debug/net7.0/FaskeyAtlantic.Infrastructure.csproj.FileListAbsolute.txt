@@ -1,0 +1,17 @@
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\bin\Debug\net7.0\FaskeyAtlantic.Infrastructure.deps.json
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\bin\Debug\net7.0\FaskeyAtlantic.Infrastructure.runtimeconfig.json
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\bin\Debug\net7.0\FaskeyAtlantic.Infrastructure.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\bin\Debug\net7.0\FaskeyAtlantic.Infrastructure.pdb
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\bin\Debug\net7.0\FaskeyAtlantic.Domain.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\bin\Debug\net7.0\FaskeyAtlantic.Domain.pdb
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.AssemblyInfo.cs
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.csproj.CopyComplete
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\refint\FaskeyAtlantic.Infrastructure.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.pdb
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\FaskeyAtlantic.Infrastructure.genruntimeconfig.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Infrastructure\obj\Debug\net7.0\ref\FaskeyAtlantic.Infrastructure.dll

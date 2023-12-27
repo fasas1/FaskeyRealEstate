@@ -1,0 +1,49 @@
+/* _content/FaskeyAtlantic_Web/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-crvao7xaym] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-crvao7xaym] {
+  color: #0077cc;
+}
+
+.btn-primary[b-crvao7xaym] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-crvao7xaym], .nav-pills .show > .nav-link[b-crvao7xaym] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-crvao7xaym] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-crvao7xaym] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-crvao7xaym] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-crvao7xaym] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-crvao7xaym] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

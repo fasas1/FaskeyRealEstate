@@ -1,0 +1,12 @@
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\bin\Debug\net7.0\FaskeyAtlantic.Application.deps.json
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\bin\Debug\net7.0\FaskeyAtlantic.Application.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\bin\Debug\net7.0\FaskeyAtlantic.Application.pdb
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\FaskeyAtlantic.Application.csproj.AssemblyReference.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\FaskeyAtlantic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\FaskeyAtlantic.Application.AssemblyInfoInputs.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\FaskeyAtlantic.Application.AssemblyInfo.cs
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\FaskeyAtlantic.Application.csproj.CoreCompileInputs.cache
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\FaskeyAtlantic.Application.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\refint\FaskeyAtlantic.Application.dll
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\FaskeyAtlantic.Application.pdb
+C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic.Application\obj\Debug\net7.0\ref\FaskeyAtlantic.Application.dll
