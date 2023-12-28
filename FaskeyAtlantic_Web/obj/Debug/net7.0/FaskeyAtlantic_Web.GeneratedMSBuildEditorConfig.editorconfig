@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\BABZ\source\repos\FaskeyAtlantic_Web\FaskeyAtlantic_Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/BABZ/source/repos/FaskeyAtlantic_Web/FaskeyAtlantic_Web/Views/Estate/CreateEstate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXRlXENyZWF0ZUVzdGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BABZ/source/repos/FaskeyAtlantic_Web/FaskeyAtlantic_Web/Views/Estate/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BABZ/source/repos/FaskeyAtlantic_Web/FaskeyAtlantic_Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

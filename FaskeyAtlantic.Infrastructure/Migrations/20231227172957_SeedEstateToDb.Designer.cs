@@ -4,6 +4,7 @@ using FaskeyAtlantic.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FaskeyAtlantic.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231227172957_SeedEstateToDb")]
+    partial class SeedEstateToDb
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -66,7 +69,7 @@ namespace FaskeyAtlantic.Infrastructure.Migrations
                             Description = "Neatly used 2 bedroom penthouse.  Unit - The unit covers the entire floor, with two massive balconies in front and back, you may decided to add additional rooms in front if you wish but you are not allowed to\r\nadd another floor as the approved amount of floors within the estate is four(4).Content from Nigeria Property Centre",
                             ImageUrl = "https://www.pexels.com/photo/blue-lounger-beside-swimming-pool-221457/",
                             Name = "Banana Ville Resort",
-                            Occupancy = 5,
+                            Occupancy = 0,
                             Price = 4800.0,
                             Sqft = 1700
                         },
@@ -76,7 +79,7 @@ namespace FaskeyAtlantic.Infrastructure.Migrations
                             Description = "Neatly used 3 bedroom. invater - The unit comes with 20-solar panels and 10kva invater - this invater lasts for 12hours and it takes 2 A/cs but all units A/cs are connected to it, you decide which 2 A/cs to leave ON . But\r\nthe light in Osborne Forshore is superb - 23hours and most times it goes for days.Content from Nigeria Property Centre",
                             ImageUrl = "https://www.pexels.com/photo/construction-house-architecture-luxury-53610/",
                             Name = "Exclusive Luxury Mansion",
-                            Occupancy = 7,
+                            Occupancy = 0,
                             Price = 3800.0,
                             Sqft = 1300
                         },
@@ -86,7 +89,7 @@ namespace FaskeyAtlantic.Infrastructure.Migrations
                             Description = "Neatly used 2 bedroom penthouse.  Unit - The unit covers the entire floor, with two massive balconies in front and back, you\r\nmay decided to add additional rooms in front if you wish but you are not allowed to\r\nadd another floor as the approved amount of floors within the estate is four(4).Content from Nigeria Property Centre",
                             ImageUrl = "https://www.pexels.com/photo/white-concrete-2-storey-house-206172/",
                             Name = "Shuqroh Ville",
-                            Occupancy = 4,
+                            Occupancy = 0,
                             Price = 1400.0,
                             Sqft = 1100
                         });
